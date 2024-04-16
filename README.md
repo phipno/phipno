@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="output.gif" alt="Clip taken from Samuel Episode 12">
+<img src="output-onlinegiftools.gif" alt="Clip taken from Samuel Episode 12">
