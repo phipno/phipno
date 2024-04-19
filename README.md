@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"><samp>Welcome Welcome</samp></h1>
+<p></p>
 
 <!--
 **phipno/phipno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="small_readme.gif" alt="Clip taken from Samuel Episode 12">
-  <p>Animation taken from Samuel Arte</p>
+  <img src="small_readme.gif" alt="Clip taken from Samuel Episode 12 from Arte">
 </div>
