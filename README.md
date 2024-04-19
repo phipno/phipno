@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="output-onlinegiftools.gif" alt="Clip taken from Samuel Episode 12">
+<div>
+  <img src="small_readme.gif" alt="Clip taken from Samuel Episode 12">
+  <p>Animation taken from Samuel Arte</p>
+</div>
