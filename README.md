@@ -1,6 +1,7 @@
 <h1 align="center"><samp>Welcome Welcome</samp></h1>
-<img align="center" width="50%" height="50%" src="discoball.gif" alt="Clip taken from Samuel Episode 12 from Arte">
-<p></p>
+<p align="center">
+  <img width="30%" height="50%" src="discoball.gif" alt="Clip taken from Samuel Episode 12 from Arte">
+</p>
 
 <!--
 **phipno/phipno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
